@@ -7,6 +7,7 @@
 
 <p align="center">
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rukeni)](https://github.com/rukeni/leetcode)
+<img align="center" src="https://leetcode-stats-six.vercel.app/api?username=rukeni">
 </p>
 
 
