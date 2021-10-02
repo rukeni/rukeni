@@ -5,7 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukeni" alt="rukeni" /></a> </p>
 
+<p align="center">
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rukeni)](https://github.com/rukeni/leetcode)
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
