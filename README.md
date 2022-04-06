@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seung Min Yang(Anderson)</h1>
 <h3 align="center">A Curious frontend developer from Korea 👋.</h3>
-
+<h4 align="center">Study to build a reliable thinking system.</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rukeni&label=Profile%20views&color=0e75b6&style=flat" alt="rukeni" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukeni" alt="rukeni" /></a> </p>
