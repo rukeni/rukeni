@@ -9,11 +9,4 @@
 <h4 align="left">✅ I learned about React and TDD.: <a target="_blank" href="https://www.codesoom.com/">CODESOOM 💻</a> </h4>
 <h4 align="left">🔺 I'm running a blog. Not much has been written yet.: <a target="_blank" href="https://blog.co2.ninja/">Blog ❤️</a> </h4>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rukeni&show_icons=true&locale=en&layout=compact" alt="rukeni" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukeni" alt="rukeni" /></a> </p>
-
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rukeni&show_icons=true&locale=en" alt="rukeni" /></p>
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukeni&" alt="rukeni" /></p>
 
