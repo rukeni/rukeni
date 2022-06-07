@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rukeni&label=Profile%20views&color=0e75b6&style=flat" alt="rukeni" /> </p>
+
 <h1 align="left">Hi 👋, I'm Seung Min Yang(Anderson)</h1>
 <h3 align="left">A Curious frontend developer from Korea 👋.</h3>
 <h4 align="left">Study to build a reliable thinking system.</h4>
@@ -8,8 +10,6 @@
 <h4 align="left">🔺 I'm running a blog. Not much has been written yet.: <a target="_blank" href="https://blog.co2.ninja/">Blog ❤️</a> </h4>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rukeni&show_icons=true&locale=en&layout=compact" alt="rukeni" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rukeni&label=Profile%20views&color=0e75b6&style=flat" alt="rukeni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukeni" alt="rukeni" /></a> </p>
 
