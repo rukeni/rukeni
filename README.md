@@ -6,7 +6,5 @@
 <h4 align="left">지금 내 글과 코드가 어설프지라도, 내일의 나는 오늘보다는 꾸준히 나아갈것이다.</h4>
 <h4 align="left">✅ I have been participating in a book club for a year and a half: <a target="_blank" href="https://ds1svg.notion.site/KDBC-96b5ee1963f247e5821594a83fff4ba9">KDBC 📖</a> </h4>
 <h4 align="left">✅ I make a list of what I learned every day in the repository.: <a target="_blank" href="https://github.com/rukeni/TIL">TIL 📝</a> </h4>
-<h4 align="left">✅ I learned about React and TDD.: <a target="_blank" href="https://www.codesoom.com/">CODESOOM 💻</a> </h4>
-<h4 align="left">🔺 I'm running a blog. Not much has been written yet.: <a target="_blank" href="https://blog.co2.ninja/">Blog ❤️</a> </h4>
 
 
